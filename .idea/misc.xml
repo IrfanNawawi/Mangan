@@ -3,6 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/drawable-v24/bg_button.xml" value="0.1" />
+        <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/drawable/bg_button_disable.xml" value="0.1" />
+        <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/drawable/ic_bookmark_selector.xml" value="0.1" />
+        <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/drawable/ic_bookmark_white.xml" value="0.113" />
+        <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/drawable/ic_broken_image_black.xml" value="0.113" />
+        <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/drawable/ic_circle_black.xml" value="0.113" />
+        <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/drawable/ic_error.xml" value="0.1" />
+        <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/drawable/ic_loading.xml" value="0.1" />
+        <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/drawable/ic_refresh_black.xml" value="0.113" />
+        <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/drawable/ic_share_white.xml" value="0.113" />
         <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/layout/activity_detail_meal.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/layout/activity_home.xml" value="0.1" />
       </map>
