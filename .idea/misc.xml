@@ -22,10 +22,20 @@
         <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/drawable/sp_rectangle_main.xml" value="0.1" />
         <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/font/font.xml" value="0.19537037037037036" />
         <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/layout/activity_detail_meal.xml" value="0.1" />
-        <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/layout/content_detail_meal.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/layout/fragment_akun.xml" value="0.1" />
+        <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/layout/fragment_category.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/layout/fragment_favorite.xml" value="0.1" />
+        <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/layout/item_category.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/layout/item_category_shimmer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/layout/item_meal.xml" value="0.1" />
+        <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/layout/item_meal_shimmer.xml" value="0.1" />
         <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/layout/item_product.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/layout/item_product_shimmer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/0446511018/AndroidStudioProjects/Mangan/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
       </map>
     </option>
   </component>

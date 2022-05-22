@@ -32,7 +32,7 @@
         tools:text="@string/txt_meal" />
 
     <TextView
-        android:id="@+id/tv_desc"
+        android:id="@+id/tv_instruction"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/txt_desc"

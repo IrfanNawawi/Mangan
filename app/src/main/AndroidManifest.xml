@@ -14,18 +14,19 @@
         android:theme="@style/Theme.Mangan"
         tools:ignore="GoogleAppIndexingWarning">
         <activity
-            android:name="com.cendrawasih.mangan.ui.detail.DetailMealActivity"
+            android:name=".ui.detail.DetailMealActivity"
             android:exported="false"
             android:label="@string/title_activity_detail_meal"
-            android:parentActivityName="com.cendrawasih.mangan.ui.home.HomeActivity"
+            android:parentActivityName=".ui.main.MainActivity"
             android:theme="@style/Theme.Mangan.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.cendrawasih.mangan.ui.home.HomeActivity" />
+                android:value="com.cendrawasih.mangan.ui.main.MainActivity" />
         </activity>
         <activity
-            android:name="com.cendrawasih.mangan.ui.home.HomeActivity"
-            android:exported="true">
+            android:name=".ui.main.MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Mangan.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

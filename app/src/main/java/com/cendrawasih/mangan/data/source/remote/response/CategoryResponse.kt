@@ -1,4 +1,4 @@
-package com.cendrawasih.mangan.data
+package com.cendrawasih.mangan.data.source.remote.response
 
 data class CategoryResponse(
     val categories: List<Category>

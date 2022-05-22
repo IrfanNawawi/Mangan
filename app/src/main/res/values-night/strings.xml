@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Mangan</string>
+    <string name="category">Category</string>
+    <string name="favorite">Favorite</string>
+    <string name="akun">Akun</string>
+    <string name="title_activity_detail_meal">DetailMealActivity</string>
+    <string name="txt_hello">Halo,</string>
+    <string name="txt_name_user">Buana Varia Komputama</string>
+    <string name="txt_search">Cari Data ...</string>
+    <string name="txt_home_background">Home Background</string>
     <string name="txt_meal">Title Meal</string>
     <string name="txt_desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
 </resources>
